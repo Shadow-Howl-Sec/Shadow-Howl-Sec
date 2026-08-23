@@ -77,8 +77,8 @@ Automates income, expense tracking & lead generation.
 <td width="50%">
 
 **🎓 [SKILLSPRINT_ACADEMY](https://github.com/Shadow-Howl-Sec/SKILLSPRINT_ACADEMY)**
-Learning platform front-end.
-`HTML`
+Learning platform.
+`Python`
 
 </td>
 </tr>
