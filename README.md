@@ -23,7 +23,7 @@ focus:
   - Offensive security tooling (recon, port scanning)
   - Python automation for business & fintech workflows
   - Secure encoding / data protection utilities
-currently_building: FinPilot — AI-powered finance app w/ blockchain-secured data
+currently_building: SkillSprint Academy
 status: "actively hunting bugs & shipping code"
 ```
 
@@ -111,12 +111,9 @@ Learning platform front-end.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-black?style=for-the-badge&logo=nmap&logoColor=00FF9C)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
-
 </div>
 
 ---
